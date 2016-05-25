@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'omniauth-facebook'
 gem 'devise'
 gem 'rails', '4.2.6'
 gem 'pg', '~> 0.15'
