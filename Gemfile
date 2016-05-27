@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+gem 'paperclip'
 gem 'omniauth-facebook'
 gem 'devise'
 gem 'rails', '4.2.6'
